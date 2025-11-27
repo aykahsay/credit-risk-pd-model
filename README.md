@@ -27,7 +27,8 @@ credit-risk-pd-model/
 │   ├── roc_curve.png              # ROC curve for PD model
 │
 ├── scripts/
-│   ├── pd_model.py                # Main model training & evaluation script
+│   ├── pd_model.py
+|   ├── EDA.ipynb            # Main model training & evaluation script
 │
 ├── README.md                      # Project documentation
 ├── requirements.txt               # Dependencies for easy setup
