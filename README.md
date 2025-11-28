@@ -122,7 +122,6 @@ Evaluation on the test set:
 | **AUC Score**    | 0.52   | Weak separation power       |
 | **KS Statistic** | 0.0755 | Low risk discrimination     |
 
-The **ROC Curve** is saved as `/output/roc_curve.png`.
 
 ---
 
